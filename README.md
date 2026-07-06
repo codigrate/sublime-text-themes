@@ -55,6 +55,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
       <td>
+         Polar Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -63,6 +66,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/123243.png?width=30&height=30" alt="#123243"></td>
+      <td>
+         Arctic Depth
+      </td>
       <td>
          Window Background
       </td>
@@ -73,6 +79,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30" alt="#549EFF"></td>
       <td>
+         Polar Blue
+      </td>
+      <td>
          Strings and Numbers
       </td>
       <td>
@@ -81,6 +90,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30" alt="#7ACEF5"></td>
+      <td>
+         Arctic Cyan
+      </td>
       <td>
          Instance Fields
       </td>
@@ -91,6 +103,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/043A33.png?width=30&height=30" alt="#043A33"></td>
       <td>
+         Boreal Pine
+      </td>
+      <td>
          Tab Colors
       </td>
       <td>
@@ -99,6 +114,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30" alt="#73D379"></td>
+      <td>
+         Northern Green
+      </td>
       <td>
          Global Variables
       </td>
@@ -109,6 +127,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30" alt="#05C0A6"></td>
       <td>
+         Teal Glow
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -117,6 +138,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30" alt="#BB719B"></td>
+      <td>
+         Twilight Rose
+      </td>
       <td>
          Keywords
       </td>
@@ -127,6 +151,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30" alt="#D193BB"></td>
       <td>
+         Pink Aurora
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -135,6 +162,9 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30" alt="#BAA5FF"></td>
+      <td>
+         Lavender Light
+      </td>
       <td>
          Parameters
       </td>
@@ -168,6 +198,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
       <td>
+         Pale Birch
+      </td>
+      <td>
          Window Background
       </td>
       <td>
@@ -176,6 +209,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F4D3BD.png?width=30&height=30" alt="#F4D3BD"></td>
+      <td>
+         Apricot Haze
+      </td>
       <td>
          Selection Background
       </td>
@@ -186,6 +222,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/BE553E.png?width=30&height=30" alt="#BE553E"></td>
       <td>
+         Maple Rust
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -194,6 +233,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/773918.png?width=30&height=30" alt="#773918"></td>
+      <td>
+         Acorn Brown
+      </td>
       <td>
          Metadata
       </td>
@@ -204,6 +246,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/B0633A.png?width=30&height=30" alt="#B0633A"></td>
       <td>
+         Copper Leaf
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -212,6 +257,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30" alt="#A87F25"></td>
+      <td>
+         Harvest Gold
+      </td>
       <td>
          Instance Fields
       </td>
@@ -222,6 +270,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30" alt="#DEA51D"></td>
       <td>
+         Golden Leaf
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -230,6 +281,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30" alt="#1B591E"></td>
+      <td>
+         Pine Shadow
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -240,6 +294,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/0E8113.png?width=30&height=30" alt="#0E8113"></td>
       <td>
+         Evergreen
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -248,6 +305,9 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/006E83.png?width=30&height=30" alt="#006E83"></td>
+      <td>
+         Mallard Teal
+      </td>
       <td>
          Keywords
       </td>
@@ -281,6 +341,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
       <td>
+         Summit Snow
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -289,6 +352,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30" alt="#E4ECEF"></td>
+      <td>
+         Morning Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -299,6 +365,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/1A6D9F.png?width=30&height=30" alt="#1A6D9F"></td>
       <td>
+         Mountain Blue
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -307,6 +376,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/005E79.png?width=30&height=30" alt="#005E79"></td>
+      <td>
+         Blue Ice
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -317,6 +389,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/007A47.png?width=30&height=30" alt="#007A47"></td>
       <td>
+         Juniper
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -325,6 +400,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2E674F.png?width=30&height=30" alt="#2E674F"></td>
+      <td>
+         Pine Ridge
+      </td>
       <td>
          Keywords
       </td>
@@ -335,6 +413,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/83529B.png?width=30&height=30" alt="#83529B"></td>
       <td>
+         Mountain Iris
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -343,6 +424,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8C4069.png?width=30&height=30" alt="#8C4069"></td>
+      <td>
+         Rhododendron
+      </td>
       <td>
          Global Variables
       </td>
@@ -353,6 +437,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30" alt="#ED7E5A"></td>
       <td>
+         Sunrise Flame
+      </td>
+      <td>
          Active Border Colors
       </td>
       <td>
@@ -361,6 +448,9 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8F4446.png?width=30&height=30" alt="#8F4446"></td>
+      <td>
+         Granite Red
+      </td>
       <td>
          Parameters
       </td>
@@ -394,6 +484,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
       <td>
+         Tepui Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -402,6 +495,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
+      <td>
+         Canyon Shadow
+      </td>
       <td>
          Window Background
       </td>
@@ -412,6 +508,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/582F29.png?width=30&height=30" alt="#582F29"></td>
       <td>
+         Terracotta Shade
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -420,6 +519,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
+      <td>
+         Coral Canyon
+      </td>
       <td>
          Keywords
       </td>
@@ -430,6 +532,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30" alt="#D69568"></td>
       <td>
+         Amber Sand
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -438,6 +543,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30" alt="#D1BA46"></td>
+      <td>
+         Savanna Gold
+      </td>
       <td>
          Metadata
       </td>
@@ -448,6 +556,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30" alt="#DDBE6D"></td>
       <td>
+         Dry Grass
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -456,6 +567,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30" alt="#ED8B8B"></td>
+      <td>
+         Pink Quartz
+      </td>
       <td>
          Static Fields
       </td>
@@ -466,6 +580,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
       <td>
+         Orchid Mist
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -474,6 +591,9 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30" alt="#7E6AA3"></td>
+      <td>
+         Twilight Violet
+      </td>
       <td>
          Tag Name
       </td>
@@ -507,6 +627,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
       <td>
+         Blossom White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -515,6 +638,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
+      <td>
+         Petal Veil
+      </td>
       <td>
          Surface Background
       </td>
@@ -525,6 +651,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30" alt="#FFC9DC"></td>
       <td>
+         Full Bloom
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -533,6 +662,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/CB6B91.png?width=30&height=30" alt="#CB6B91"></td>
+      <td>
+         Rose Garden
+      </td>
       <td>
          Parameters
       </td>
@@ -543,6 +675,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/98556C.png?width=30&height=30" alt="#98556C"></td>
       <td>
+         Plum Wine
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -551,6 +686,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30" alt="#DBEACB"></td>
+      <td>
+         Spring Leaf
+      </td>
       <td>
          Active Background
       </td>
@@ -561,6 +699,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30" alt="#618C71"></td>
       <td>
+         Tea Leaf
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -569,6 +710,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30" alt="#69A2BD"></td>
+      <td>
+         Spring Rain
+      </td>
       <td>
          Static Fields
       </td>
@@ -579,6 +723,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    <tr>
       <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30" alt="#607FA9"></td>
       <td>
+         River Stone
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -587,6 +734,9 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/687788.png?width=30&height=30" alt="#687788"></td>
+      <td>
+         Morning Fog
+      </td>
       <td>
          Global Variables
       </td>
@@ -620,6 +770,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
       <td>
+         Forest Floor
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -628,6 +781,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30" alt="#32382C"></td>
+      <td>
+         Evergreen Shade
+      </td>
       <td>
          Window Background
       </td>
@@ -638,6 +794,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
       <td>
+         Fern Shade
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -646,6 +805,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6E9F56.png?width=30&height=30" alt="#6E9F56"></td>
+      <td>
+         Meadow Green
+      </td>
       <td>
          Instance Fields
       </td>
@@ -656,6 +818,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/369772.png?width=30&height=30" alt="#369772"></td>
       <td>
+         Jade Moss
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -664,6 +829,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30" alt="#A68F59"></td>
+      <td>
+         Golden Bark
+      </td>
       <td>
          Strings
       </td>
@@ -674,6 +842,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
       <td>
+         Warm Timber
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -682,6 +853,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30" alt="#A86255"></td>
+      <td>
+         Redwood Clay
+      </td>
       <td>
          Local Variables
       </td>
@@ -692,6 +866,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30" alt="#986969"></td>
       <td>
+         Faded Rosewood
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -700,6 +877,9 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+      <td>
+         Driftwood
+      </td>
       <td>
          Comments
       </td>
@@ -735,6 +915,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/FAFDFD.png?width=30&height=30" alt="#FAFDFD"></td>
       <td>
+         Marble White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -743,6 +926,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DBF0F1.png?width=30&height=30" alt="#DBF0F1"></td>
+      <td>
+         Bosphorus Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -753,6 +939,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/A3DDE5.png?width=30&height=30" alt="#A3DDE5"></td>
       <td>
+         Sea Glass
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -761,6 +950,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1190A1.png?width=30&height=30" alt="#1190A1"></td>
+      <td>
+         Bosphorus Teal
+      </td>
       <td>
          Keywords
       </td>
@@ -771,6 +963,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/0887B5.png?width=30&height=30" alt="#0887B5"></td>
       <td>
+         Marmara Blue
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -779,6 +974,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EFEAD0.png?width=30&height=30" alt="#EFEAD0"></td>
+      <td>
+         Old Parchment
+      </td>
       <td>
          Active Background
       </td>
@@ -789,6 +987,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/B87958.png?width=30&height=30" alt="#B87958"></td>
       <td>
+         Copper Bazaar
+      </td>
+      <td>
          Attributes
       </td>
       <td>
@@ -797,6 +998,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B8514D.png?width=30&height=30" alt="#B8514D"></td>
+      <td>
+         Rooftop Red
+      </td>
       <td>
          Parameters
       </td>
@@ -807,6 +1011,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    <tr>
       <td><img src="https://codigrate.com/util/color/C16979.png?width=30&height=30" alt="#C16979"></td>
       <td>
+         Tulip Pink
+      </td>
+      <td>
          Tags
       </td>
       <td>
@@ -815,6 +1022,9 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/9C6E7C.png?width=30&height=30" alt="#9C6E7C"></td>
+      <td>
+         Ottoman Rose
+      </td>
       <td>
          Metadata
       </td>
@@ -848,6 +1058,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
       <td>
+         Midnight Vice
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -856,6 +1069,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/532033.png?width=30&height=30" alt="#532033"></td>
+      <td>
+         Plum Night
+      </td>
       <td>
          Window Background
       </td>
@@ -866,6 +1082,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
       <td>
+         Miami Pink
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -874,6 +1093,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30" alt="#FE788C"></td>
+      <td>
+         Flamingo
+      </td>
       <td>
          Tag Colors
       </td>
@@ -884,6 +1106,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30" alt="#FE8078"></td>
       <td>
+         Sunset Coral
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -892,6 +1117,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30" alt="#F2A4A0"></td>
+      <td>
+         Coral Haze
+      </td>
       <td>
          Keywords
       </td>
@@ -902,6 +1130,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30" alt="#92B5E8"></td>
       <td>
+         Art Deco Blue
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -910,6 +1141,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30" alt="#00D1C1"></td>
+      <td>
+         Electric Aqua
+      </td>
       <td>
          Parameters
       </td>
@@ -920,6 +1154,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/82D59F.png?width=30&height=30" alt="#82D59F"></td>
       <td>
+         Palm Green
+      </td>
+      <td>
          Variables
       </td>
       <td>
@@ -928,6 +1165,9 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8D273.png?width=30&height=30" alt="#F8D273"></td>
+      <td>
+         Golden Sand
+      </td>
       <td>
          Strings
       </td>
@@ -961,6 +1201,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/281D22.png?width=30&height=30" alt="#281D22"></td>
       <td>
+         Parisian Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -969,6 +1212,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4F303C.png?width=30&height=30" alt="#4F303C"></td>
+      <td>
+         Cabaret Shadow
+      </td>
       <td>
          Window Background
       </td>
@@ -979,6 +1225,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30" alt="#6A3C4D"></td>
       <td>
+         Rosewood
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -987,6 +1236,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D584A3.png?width=30&height=30" alt="#D584A3"></td>
+      <td>
+         Montmartre Rose
+      </td>
       <td>
          Keywords
       </td>
@@ -997,6 +1249,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
       <td>
+         Cherry Macaron
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -1005,6 +1260,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30" alt="#F3B7A9"></td>
+      <td>
+         Peach Macaron
+      </td>
       <td>
          Instance Fields
       </td>
@@ -1015,6 +1273,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/FBBA77.png?width=30&height=30" alt="#FBBA77"></td>
       <td>
+         Cafe Lights
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -1023,6 +1284,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F1C970.png?width=30&height=30" alt="#F1C970"></td>
+      <td>
+         Champagne Gold
+      </td>
       <td>
          Parameters
       </td>
@@ -1033,6 +1297,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
       <td>
+         Seine Blue
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -1041,6 +1308,9 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30" alt="#87A1D3"></td>
+      <td>
+         Twilight Blue
+      </td>
       <td>
          Local Variables
       </td>
@@ -1074,6 +1344,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/F7FAF6.png?width=30&height=30" alt="#F7FAF6"></td>
       <td>
+         Morning Breeze
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1082,6 +1355,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D9EFD2.png?width=30&height=30" alt="#D9EFD2"></td>
+      <td>
+         Palm Shade
+      </td>
       <td>
          Window Background
       </td>
@@ -1092,6 +1368,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30" alt="#85B778"></td>
       <td>
+         Jungle Canopy
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -1100,6 +1379,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/13A166.png?width=30&height=30" alt="#13A166"></td>
+      <td>
+         Emerald Palm
+      </td>
       <td>
          Keywords
       </td>
@@ -1110,6 +1392,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/028134.png?width=30&height=30" alt="#028134"></td>
       <td>
+         Deep Jungle
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -1118,6 +1403,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
+      <td>
+         Guanabara Blue
+      </td>
       <td>
          Secondary Accent
       </td>
@@ -1128,6 +1416,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
       <td>
+         Atlantic Blue
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -1136,6 +1427,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1065B8.png?width=30&height=30" alt="#1065B8"></td>
+      <td>
+         Bay Blue
+      </td>
       <td>
          Tags
       </td>
@@ -1146,6 +1440,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
       <td>
+         Golden Samba
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -1154,6 +1451,9 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30" alt="#ECDA61"></td>
+      <td>
+         Ipanema Sun
+      </td>
       <td>
          Search Match
       </td>
@@ -1187,6 +1487,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/EDF2FA.png?width=30&height=30" alt="#EDF2FA"></td>
       <td>
+         Baltic Morning
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1195,6 +1498,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D0DCEF.png?width=30&height=30" alt="#D0DCEF"></td>
+      <td>
+         Winter Sky
+      </td>
       <td>
          Window Background
       </td>
@@ -1205,6 +1511,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/377CC1.png?width=30&height=30" alt="#377CC1"></td>
       <td>
+         Harbor Blue
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -1213,6 +1522,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/425EB8.png?width=30&height=30" alt="#425EB8"></td>
+      <td>
+         Cobalt Spire
+      </td>
       <td>
          Keywords
       </td>
@@ -1223,6 +1535,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/324979.png?width=30&height=30" alt="#324979"></td>
       <td>
+         Old Town Indigo
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -1231,6 +1546,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/81549C.png?width=30&height=30" alt="#81549C"></td>
+      <td>
+         Amethyst
+      </td>
       <td>
          Strings
       </td>
@@ -1241,6 +1559,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30" alt="#B6564B"></td>
       <td>
+         Brick Lane
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -1249,6 +1570,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
+      <td>
+         Weathered Brick
+      </td>
       <td>
          Tag Colors
       </td>
@@ -1259,6 +1583,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30" alt="#548A64"></td>
       <td>
+         Courtyard Green
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -1267,6 +1594,9 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1E7857.png?width=30&height=30" alt="#1E7857"></td>
+      <td>
+         Spruce Green
+      </td>
       <td>
          Local Variables
       </td>
@@ -1300,6 +1630,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30" alt="#1A1F35"></td>
       <td>
+         Tokyo Midnight
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1308,6 +1641,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30" alt="#2A3051"></td>
+      <td>
+         Indigo District
+      </td>
       <td>
          Window Background
       </td>
@@ -1318,6 +1654,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
       <td>
+         Metro Indigo
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -1326,6 +1665,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7FA0DD.png?width=30&height=30" alt="#7FA0DD"></td>
+      <td>
+         Skyline Blue
+      </td>
       <td>
          Tag Colors
       </td>
@@ -1336,6 +1678,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30" alt="#7285DC"></td>
       <td>
+         Shibuya Blue
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -1344,6 +1689,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30" alt="#ECA1EB"></td>
+      <td>
+         Pink Neon
+      </td>
       <td>
          Instance Fields
       </td>
@@ -1354,6 +1702,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/D3B690.png?width=30&height=30" alt="#D3B690"></td>
       <td>
+         Paper Lantern
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -1362,6 +1713,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DD9B7F.png?width=30&height=30" alt="#DD9B7F"></td>
+      <td>
+         Amber Sign
+      </td>
       <td>
          Parameters
       </td>
@@ -1372,6 +1726,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30" alt="#5CC19D"></td>
       <td>
+         Matcha Neon
+      </td>
+      <td>
          Variables
       </td>
       <td>
@@ -1380,6 +1737,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30" alt="#5DC8D6"></td>
+      <td>
+         Cyan Sign
+      </td>
       <td>
          Strings
       </td>
