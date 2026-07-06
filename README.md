@@ -174,6 +174,8 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    </tr>
 </table>
 
+---
+
 <p align="center">
    <a href="https://codigrate.com/theme?product=autumn&category=nature">
       <img src="nature/autumn-theme/icon.png" alt="Autumn" width="160">
@@ -316,6 +318,8 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
       </td>
    </tr>
 </table>
+
+---
 
 <p align="center">
    <a href="https://codigrate.com/theme?product=everest&category=nature">
@@ -460,6 +464,8 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    </tr>
 </table>
 
+---
+
 <p align="center">
    <a href="https://codigrate.com/theme?product=roraima&category=nature">
       <img src="nature/roraima-theme/icon.png" alt="Roraima" width="160">
@@ -603,6 +609,8 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    </tr>
 </table>
 
+---
+
 <p align="center">
    <a href="https://codigrate.com/theme?product=sakura&category=nature">
       <img src="nature/sakura-theme/icon.png" alt="Sakura" width="160">
@@ -745,6 +753,8 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
       </td>
    </tr>
 </table>
+
+---
 
 <p align="center">
    <a href="https://codigrate.com/theme?product=sequoia&category=nature">
@@ -1034,6 +1044,8 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
    </tr>
 </table>
 
+---
+
 <p align="center">
    <a href="https://codigrate.com/theme?product=miami&category=cities">
       <img src="cities/miami-theme/icon.png" alt="Miami" width="160">
@@ -1176,6 +1188,8 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
       </td>
    </tr>
 </table>
+
+---
 
 <p align="center">
    <a href="https://codigrate.com/theme?product=paris&category=cities">
@@ -1320,6 +1334,8 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    </tr>
 </table>
 
+---
+
 <p align="center">
    <a href="https://codigrate.com/theme?product=rio-de-janeiro&category=cities">
       <img src="cities/rio-de-janeiro-theme/icon.png" alt="Rio de Janeiro" width="160">
@@ -1463,6 +1479,8 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    </tr>
 </table>
 
+---
+
 <p align="center">
    <a href="https://codigrate.com/theme?product=tallinn&category=cities">
       <img src="cities/tallinn-theme/icon.png" alt="Tallinn" width="160">
@@ -1605,6 +1623,8 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
       </td>
    </tr>
 </table>
+
+---
 
 <p align="center">
    <a href="https://codigrate.com/theme?product=tokyo&category=cities">
