@@ -1,0 +1,5 @@
+# Keep the installed package lean: users only need the scheme/theme files.
+# (Package Control installs from the git tag archive; export-ignore strips these.)
+*.png export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
