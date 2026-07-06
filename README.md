@@ -1769,6 +1769,8 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    </tr>
 </table>
 
+<!-- codigrate-readme-footer -->
+
 ## Contributing
 
 Issues and suggestions are welcome. Open an issue on this repository, or reach us at [info@codigrate.com](mailto:info@codigrate.com).
