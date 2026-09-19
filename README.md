@@ -9,7 +9,7 @@ Codigrate Themes for Sublime Text
 </h1>
 
 A carefully crafted collection of Sublime Text color schemes inspired by nature and iconic cities around the world.
-Each theme is designed with balance, readability, and long coding sessions in mind—blending distinctive atmospheres
+Each theme is designed with balance, readability, and long coding sessions in mind, blending distinctive atmospheres
 with thoughtfully tuned colors that make your editor feel both elegant and comfortable.
 Whether you prefer calm, light environments or deep, immersive dark palettes,
 these themes aim to make your coding experience visually inspiring and pleasantly focused.
@@ -19,9 +19,16 @@ these themes aim to make your coding experience visually inspiring and pleasantl
 1. Install **Sublime Text** on your system.
 2. Copy the theme's `.sublime-color-scheme` AND `.sublime-theme` files into your `Packages/User` directory
    (`Preferences → Browse Packages…` opens it).
-3. Open `Preferences → Select Color Scheme…` and pick the theme by name — this paints the editor.
-4. Open `Preferences → Select Theme…` and pick the same name — this paints the window
+3. Open `Preferences → Select Color Scheme…` and pick the theme by name; this paints the editor.
+4. Open `Preferences → Select Theme…` and pick the same name; this paints the window
    (sidebar, tabs, status bar) with the theme's own palette.
+
+## Premium themes
+
+Some themes are **premium**: they are sold on [codigrate.com](https://codigrate.com/themes) as a one-time
+download (pay with Stripe, no account needed) and are marked *(Premium)* below with a **Buy** badge. The
+download holds the same two files as a free theme and installs the same way; the files themselves are not
+in this repository.
 
 ## Notes
 
@@ -895,6 +902,155 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/7E6AA3">#7E6AA3</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme/content?product=ocean&platform=sublime%20text">
+      <img src="nature/ocean-theme/icon.png" alt="Ocean" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Ocean
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=ocean&platform=sublime%20text)
+
+## Description
+
+Inspired by the deep sea and the quiet glow of life far below the surface, this theme layers dark teal and blue-green shadows with bioluminescent cyan, coral pink, and sea glass accents to create a calm and immersive coding environment. Deep, cool backgrounds keep the editor restful, while bright cyans, soft pinks, and warm sandbar tones add clarity and focus to key syntax elements.
+
+## Screenshots
+
+<img src="nature/ocean-theme/screenshot-1.png" alt="Ocean screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/102B2E.png?width=30&height=30" alt="#102B2E"></td>
+      <td>
+         Deep Water
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/102B2E">#102B2E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/18383C.png?width=30&height=30" alt="#18383C"></td>
+      <td>
+         Dark Current
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/18383C">#18383C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1C4247.png?width=30&height=30" alt="#1C4247"></td>
+      <td>
+         Deep Reef
+      </td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1C4247">#1C4247</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5AB590.png?width=30&height=30" alt="#5AB590"></td>
+      <td>
+         Kelp Green
+      </td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5AB590">#5AB590</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3FB4D8.png?width=30&height=30" alt="#3FB4D8"></td>
+      <td>
+         Surface Blue
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/3FB4D8">#3FB4D8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B88BDA.png?width=30&height=30" alt="#B88BDA"></td>
+      <td>
+         Sea Lavender
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B88BDA">#B88BDA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30" alt="#EE8EBF"></td>
+      <td>
+         Anemone Pink
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/EE8EBF">#EE8EBF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC7783.png?width=30&height=30" alt="#DC7783"></td>
+      <td>
+         Coral Bloom
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DC7783">#DC7783</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC9577.png?width=30&height=30" alt="#DC9577"></td>
+      <td>
+         Salmon Drift
+      </td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DC9577">#DC9577</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EAC089.png?width=30&height=30" alt="#EAC089"></td>
+      <td>
+         Shell Gold
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/EAC089">#EAC089</a>
       </td>
    </tr>
 </table>
