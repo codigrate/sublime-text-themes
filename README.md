@@ -3443,7 +3443,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F1F9F3.png?width=30&height=30" alt="#F1F9F3"></td>
+      <td><img src="https://codigrate.com/util/color/F1F9F5.png?width=30&height=30" alt="#F1F9F5"></td>
       <td>
          Ha'penny White
       </td>
@@ -3451,11 +3451,11 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F1F9F3">#F1F9F3</a>
+         <a href="https://codigrate.com/tools/color/F1F9F5">#F1F9F5</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D3F3DB.png?width=30&height=30" alt="#D3F3DB"></td>
+      <td><img src="https://codigrate.com/util/color/D3F3E5.png?width=30&height=30" alt="#D3F3E5"></td>
       <td>
          Liffey Mist
       </td>
@@ -3463,19 +3463,19 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/D3F3DB">#D3F3DB</a>
+         <a href="https://codigrate.com/tools/color/D3F3E5">#D3F3E5</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/6CC682.png?width=30&height=30" alt="#6CC682"></td>
+      <td><img src="https://codigrate.com/util/color/169B62.png?width=30&height=30" alt="#169B62"></td>
       <td>
-         Castle Sky
+         Tricolour Green
       </td>
       <td>
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/6CC682">#6CC682</a>
+         <a href="https://codigrate.com/tools/color/169B62">#169B62</a>
       </td>
    </tr>
    <tr>
@@ -3488,18 +3488,6 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/A38063">#A38063</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/169B62.png?width=30&height=30" alt="#169B62"></td>
-      <td>
-         Tricolour Green
-      </td>
-      <td>
-         Keywords
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/169B62">#169B62</a>
       </td>
    </tr>
    <tr>
@@ -3560,6 +3548,18 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/BD7135">#BD7135</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F2E1A.png?width=30&height=30" alt="#0F2E1A"></td>
+      <td>
+         Black Pool
+      </td>
+      <td>
+         Primary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0F2E1A">#0F2E1A</a>
       </td>
    </tr>
 </table>
