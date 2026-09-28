@@ -3508,7 +3508,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Tricolour Green
       </td>
       <td>
-         Instance Fields
+         Keywords
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/169B62">#169B62</a>
@@ -3544,7 +3544,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Tricolour Orange
       </td>
       <td>
-         Keywords
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/CF6106">#CF6106</a>
@@ -3556,7 +3556,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Autumn Haze
       </td>
       <td>
-         Strings and Numbers
+         Instance Fields
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/BD7135">#BD7135</a>
