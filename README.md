@@ -909,7 +909,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=salda&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=salda&platform=sublime%20text">
       <img src="nature/salda-theme/icon.png" alt="Salda" width="160">
    </a>
 </p>
@@ -920,7 +920,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=salda&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=salda&platform=sublime%20text)
 
 ## Description
 
@@ -1058,7 +1058,7 @@ Inspired by the white shores and turquoise shallows of Lake Salda, this theme pa
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=ocean&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=ocean&platform=sublime%20text">
       <img src="nature/ocean-theme/icon.png" alt="Ocean" width="160">
    </a>
 </p>
@@ -1069,7 +1069,7 @@ Inspired by the white shores and turquoise shallows of Lake Salda, this theme pa
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=ocean&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=ocean&platform=sublime%20text)
 
 ## Description
 
@@ -1207,7 +1207,7 @@ Inspired by the deep sea and the quiet glow of life far below the surface, this 
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=reynisfjara&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=reynisfjara&platform=sublime%20text">
       <img src="nature/reynisfjara-theme/icon.png" alt="Reynisfjara" width="160">
    </a>
 </p>
@@ -1218,7 +1218,7 @@ Inspired by the deep sea and the quiet glow of life far below the surface, this 
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=reynisfjara&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=reynisfjara&platform=sublime%20text)
 
 ## Description
 
@@ -1356,7 +1356,7 @@ Inspired by the black sand of Reynisfjara at dusk, where basalt columns rise ove
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=etna&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=etna&platform=sublime%20text">
       <img src="nature/etna-theme/icon.png" alt="Etna" width="160">
    </a>
 </p>
@@ -1367,7 +1367,7 @@ Inspired by the black sand of Reynisfjara at dusk, where basalt columns rise ove
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=etna&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=etna&platform=sublime%20text)
 
 ## Description
 
@@ -1505,7 +1505,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=fuji&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=fuji&platform=sublime%20text">
       <img src="nature/fuji-theme/icon.png" alt="Fuji" width="160">
    </a>
 </p>
@@ -1516,7 +1516,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=fuji&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=fuji&platform=sublime%20text)
 
 ## Description
 
@@ -1654,7 +1654,7 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=spring&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=spring&platform=sublime%20text">
       <img src="nature/spring-theme/icon.png" alt="Spring" width="160">
    </a>
 </p>
@@ -1665,7 +1665,7 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=spring&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=spring&platform=sublime%20text)
 
 ## Description
 
@@ -2673,7 +2673,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=sydney&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=sydney&platform=sublime%20text">
       <img src="cities/sydney-theme/icon.png" alt="Sydney" width="160">
    </a>
 </p>
@@ -2684,7 +2684,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=sydney&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=sydney&platform=sublime%20text)
 
 ## Description
 
@@ -2822,7 +2822,7 @@ Inspired by Sydney Harbour at midday, from the white sails of the Opera House to
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=prague&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=prague&platform=sublime%20text">
       <img src="cities/prague-theme/icon.png" alt="Prague" width="160">
    </a>
 </p>
@@ -2833,7 +2833,7 @@ Inspired by Sydney Harbour at midday, from the white sails of the Opera House to
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=prague&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=prague&platform=sublime%20text)
 
 ## Description
 
@@ -2971,7 +2971,7 @@ Inspired by Prague after dark, from the deep blues of the Vltava to the gas lamp
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=vienna&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=vienna&platform=sublime%20text">
       <img src="cities/vienna-theme/icon.png" alt="Vienna" width="160">
    </a>
 </p>
@@ -2982,7 +2982,7 @@ Inspired by Prague after dark, from the deep blues of the Vltava to the gas lamp
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=vienna&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=vienna&platform=sublime%20text)
 
 ## Description
 
@@ -3120,7 +3120,7 @@ Inspired by a Viennese evening at the opera, from velvet seats and candlelit box
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=madrid&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=madrid&platform=sublime%20text">
       <img src="cities/madrid-theme/icon.png" alt="Madrid" width="160">
    </a>
 </p>
@@ -3131,7 +3131,7 @@ Inspired by a Viennese evening at the opera, from velvet seats and candlelit box
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=madrid&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=madrid&platform=sublime%20text)
 
 ## Description
 
@@ -3269,7 +3269,7 @@ Inspired by a Madrid balcony at midday, from sunlit facades and saffron awnings 
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme/content?product=london&platform=sublime%20text">
+   <a href="https://codigrate.com/theme?product=london&platform=sublime%20text">
       <img src="cities/london-theme/icon.png" alt="London" width="160">
    </a>
 </p>
@@ -3280,7 +3280,7 @@ Inspired by a Madrid balcony at midday, from sunlit facades and saffron awnings 
    (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme/content?product=london&platform=sublime%20text)
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=london&platform=sublime%20text)
 
 ## Description
 
